@@ -7,9 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BabyBluetooth.h"
+
+
+
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, strong) BabyBluetooth * baby;
 
 @end
 
