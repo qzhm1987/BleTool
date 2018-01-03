@@ -13,7 +13,11 @@
 @end
 
 @implementation AppDelegate
-
+/**
+ <#Description#>
+ * @ param <#name#> <#what#>
+ @ return
+ */
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
